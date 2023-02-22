@@ -20,3 +20,12 @@ Paso 2: Ejecutar lo siguiente:
 # Credenciales para iniciar sesión con docente de prueba
 * Usuario: 123456789
 * Contraseña: 12345678
+> Puede iniciar sesión con el siguiente QR
+![123456789](https://user-images.githubusercontent.com/97413969/220730469-bfc3e88e-dab4-48e1-b246-2fa4cb2cd75e.png)
+
+#Login y menu inicio(al dar click en el dia de clase) al momento de ejecutar e iniciar sesión
+> Login
+![login](https://user-images.githubusercontent.com/97413969/220730794-6b469928-cc88-450c-a57e-9fa9a2fb831b.PNG)
+> Menu
+![menu](https://user-images.githubusercontent.com/97413969/220730817-904fa9eb-a8a4-4ed4-a328-0eeaba669589.PNG)
+
