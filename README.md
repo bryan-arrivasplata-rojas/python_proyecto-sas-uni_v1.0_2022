@@ -14,7 +14,7 @@ Paso 1: Instalar Visual C++ Redistributable Packages for Visual Studio 2013
 
 Paso 1: pip install -r requirements.txt
 
-Paso 2: Ejecutar en el siguiente orden:
+Paso 2: Ejecutar lo siguiente:
 * py app.py
 
 # Credenciales para iniciar sesión con docente de prueba
