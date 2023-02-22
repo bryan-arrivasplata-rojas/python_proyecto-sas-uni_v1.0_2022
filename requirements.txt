@@ -1,0 +1,17 @@
+opencv-contrib-python==4.5.4.58
+Pillow==9.0.0
+pandas==1.3.5
+qrcode==7.3.1
+imutils==0.5.4
+mediapipe==0.8.9
+msvc-runtime==14.29.30133
+PyMsgBox==1.0.9
+requests==2.27.1
+pyttsx3==2.90
+Flask==2.0.2
+mysql-connector-python==8.0.27
+msvc-runtime==14.29.30133
+wxPython==4.2.0
+pyodbc==4.0.35
+PyQt5==5.15.9
+pyzbar==0.1.9
