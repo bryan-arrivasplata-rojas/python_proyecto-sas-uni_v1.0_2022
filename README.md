@@ -25,7 +25,8 @@ Paso 2: Ejecutar lo siguiente:
 
 #Login y menu inicio(al dar click en el dia de clase) al momento de ejecutar e iniciar sesión
 > Login
+
 ![login](https://user-images.githubusercontent.com/97413969/220730794-6b469928-cc88-450c-a57e-9fa9a2fb831b.PNG)
 > Menu
-![menu](https://user-images.githubusercontent.com/97413969/220730817-904fa9eb-a8a4-4ed4-a328-0eeaba669589.PNG)
 
+![menu](https://user-images.githubusercontent.com/97413969/220730817-904fa9eb-a8a4-4ed4-a328-0eeaba669589.PNG)
