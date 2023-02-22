@@ -9,7 +9,7 @@ Sistema de Asistencia Simplificada con python
 * Año de lanzamiento: 2023
 
 # Ejecución
-Paso 1: Instalar Visual C++ Redistributable Packages for Visual Studio 2013 , para evitar problemas con pyzbar
+Paso 0: Instalar Visual C++ Redistributable Packages for Visual Studio 2013 , para evitar problemas con pyzbar
 > https://www.microsoft.com/es-ES/download/details.aspx?id=40784
 
 Paso 1: pip install -r requirements.txt
