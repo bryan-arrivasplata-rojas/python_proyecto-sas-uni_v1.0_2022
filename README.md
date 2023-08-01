@@ -1,4 +1,4 @@
-# python_v3.9.7_proy-sas-uni_v1.0_2022
+# proyecto-sas-uni_v1.0_2022_python_v3.9.7_2022
 Sistema de Asistencia Simplificada con python
 
 # Identificar el nombre del proyecto
